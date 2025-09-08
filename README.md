@@ -1,40 +1,29 @@
 # FNP-SALES-ANALYSIS
 An interactive Sales Analysis Dashboard built using Excel, Power Query, DAX, and ETL techniques to analyze customer behavior, revenue patterns, and product performance.
+ 📊 FNP Sales Analysis Dashboard
 
-### 🔧 Tools & Skills Used
+An interactive Excel dashboard built to analyze and visualize sales performance for FNP. The dashboard provides deep insights into customers, products, cities, and revenue trends using Power Query, Power Pivot, and DAX.
 
-Microsoft Excel
+### 🔑 Key Features
 
-DAX for calculated measures
+KPIs Tracking → Total Orders, Total Revenue, Avg Revenue, and Delivery Time
 
-Power Pivot for data modeling
+Top Performers → Top 10 Customers, Products, and Cities by Revenue
 
-Power Query for ETL and data cleaning
+Demographics → Revenue split by Male vs Female customers
 
-Data Cleaning & Transformation
+Trends Analysis → Monthly & Daily Revenue Trends
 
-Data Visualization & Dashboard Design
+Interactive Slicers → Filter by Date, Category, and Occasion
 
-### 📈 Dashboard Highlights
+### 🛠 Tools & Techniques
 
-KPIs: Total Calls, Revenue, Call Duration, Customer Ratings
+Data Cleaning & Transformation → Power Query
 
-Call Trends by month and weekday
+Data Modeling & Measures → Power Pivot & DAX
 
-Male vs Female Caller Distribution
+Visualization & Reporting → Excel Charts, Pivot Tables, and Slicers
 
-Representative-level performance with slicer interactivity
+### 📌 Use Case
 
-City-wise and Client-wise breakdowns
-
-Fully interactive Excel dashboard with advanced analytics
-
-### 🚀 Key Insights
-
-Weekdays had the highest call volumes, especially Tuesdays and Wednesdays.
-
-Most customers rated their experience 4 out of 5, reflecting strong satisfaction.
-
-Representatives contributed differently, with R03 and R05 ranking among the top performers.
-
-Bengaluru and Kolkata clients generated the highest revenue, with C0007 and C0005 as standout accounts.
+This dashboard helps businesses track key sales metrics, identify profitable customers/products, and uncover seasonal patterns, enabling data-driven decision-making.
